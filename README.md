@@ -1,5 +1,4 @@
 # STARTER-jpa03
-```
 
 Running at: <https://jpa03-andersonlee3.dokku-04.cs.ucsb.edu>
 
